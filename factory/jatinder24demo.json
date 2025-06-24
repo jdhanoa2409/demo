@@ -1,0 +1,9 @@
+{
+	"name": "jatinder24demo",
+	"location": "australiasoutheast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "227e8365-fd6a-44b8-afc3-acf3775ad7d7",
+		"tenantId": "d271f122-6fbc-414c-8811-ebf25e1d7049"
+	}
+}
